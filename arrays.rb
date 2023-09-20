@@ -31,4 +31,11 @@ guitars[4]
 # (if I didn't execute the pop method on it already)
 
 
+# ADDITIONAL ARRAY METHOD `insert`
+# The `insert`` method will allow you to insert elements
+# to any position in the array
+# For example:
+guitars.insert(2, "Jazzmaster", "Jaguar")
+# will insert "Jazzmaster" and "Jaguar" into the 2 position
+
 
