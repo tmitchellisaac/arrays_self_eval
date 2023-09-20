@@ -23,4 +23,12 @@ random_floats.push(3.45, 2.34, 1.23)
 # This will add elements to the beginning of the array `boobabies`
 boobabies.unshift(false, false, false)
 
+# DEMONSTRATE INDEX POSITION
+# Index position starts on the right and with position 0
+# To retrieve an element at a certain position we notate like this:
+guitars[4]
+# This will yield "Toronado" 
+# (if I didn't execute the pop method on it already)
+
+
 
